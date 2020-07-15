@@ -1,0 +1,83 @@
+[
+    {
+        "name":"DEVF",
+        "address":"Av. Álvaro Obregón 168, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+        "phone":"5536701339",
+        "web":"https://www.devf.la/",
+        "mail":"hola@devf.mx",
+        "maps":"https://goo.gl/maps/2e7hsxyGoiuTP1bq7",
+        "giro":"Universidad"
+    },
+    {
+        "name":"Creaciones Bellagio",
+        "address":"Blvd Toluca #22B Int-38B, Col. Sn Francisco Cuautlalpan, C.P. 53569, Edo de Mex",
+        "phone":"5555761288",
+        "web":null,
+        "mail":"dany@creaciones.com",
+        "maps":"https://goo.gl/maps/A2x68Mmg85yQLKnP9",
+        "giro":"Textil"
+    },
+    {
+        "name":"Only Sage",
+        "address":"16 de Sept #100, Col. Sn Francisco Cuautlalpan, C.P. 53569, Edo de Mex",
+        "phone":"5555936754",
+        "web":null,
+        "mail":"jose@onlysage.com",
+        "maps":"https://goo.gl/maps/A2x68Mmg85yQLKnP9",
+        "giro":"Consultoria"
+    },
+    {
+        "name":"C3ntro Telecom",
+        "address":"Av. Paseo de las Palmas 340, Lomas - Virreyes, Lomas de Chapultepec V Secc., Miguel Hidalgo, 11000 Ciudad de México, CDMX",
+        "phone":"5551478040",
+        "web":"https://www.c3ntro.mx/",
+        "mail":"ventas@c3ntro.com",
+        "maps":"https://goo.gl/maps/y2rhoRQdEKT2LmMS9",
+        "giro":"Telecom"
+    },
+    {
+    "name":"Super Emet Polanco",
+    "address":"Av Moliere 331, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+    "phone":"5552553800",
+    "web":"http://www.superemet.com/",
+    "mail":"ventas@superemet.com",
+    "maps":"https://goo.gl/maps/jJDoYMoT5n3UFhRU9",
+    "giro":"Autoservicio"
+},
+{
+    "name":"Super Emet Interlomas",
+    "address":"Circuito Empresarial 13, Villa de las Palmas, 52787 Naucalpan de Juárez, Méx.",
+    "phone":"5552904132",
+    "web":"http://www.superemet.com/",
+    "mail":"ventas@superemet.com",
+    "maps":"https://goo.gl/maps/xCrQA131tzUHcJSj9",
+    "giro":"Autoservicio"
+},
+{
+    "name":"Super Prime",
+    "address":"Constituyente C. Echanove 224, Huizachito, Cuajimalpa de Morelos, 05249 Ciudad de México, CDMX.",
+    "phone":"5552452373",
+    "web":"http://www.superemet.com/",
+    "mail":"ventas@superemet.com",
+    "maps":"https://goo.gl/maps/iA3G7vCmMEG6S6zP9",
+    "giro":"Autoservicio"
+},
+{
+    "name":"SINAI Deli & Bakery",
+    "address":"Av. Secretaría de Marina 578, Lomas del Chamizal, Cuajimalpa de Morelos, 05100 Ciudad de México, CDMX",
+    "phone":"553036257",
+    "web":null,
+    "mail":null,
+    "maps":"https://goo.gl/maps/npjwARVk2Fnmvc478",
+    "giro":"Autoservicio"
+},
+{
+    "name":"SINAI Deli & Bakery",
+    "address":"Av. Stim # 70-C, Col. Lomas del Chamizal, C.P. 05129, Ciudad de México",
+    "phone":"5519974100",
+    "web":null,
+    "mail":null,
+    "maps":"https://g.page/SinaiDeliBakery?share",
+    "giro":"Autoservicio"
+}
+]
