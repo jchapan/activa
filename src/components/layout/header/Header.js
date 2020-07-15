@@ -17,7 +17,7 @@ function Header() {
                     </Link>
                     </li>
                     <li className="nav-item">
-                    <Link className="nav-link" to="/">
+                    <Link className="nav-link" to="/alta">
                       Dar de Alta
                     </Link>
                   </li>

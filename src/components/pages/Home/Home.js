@@ -22,7 +22,7 @@ function Home() {
       .catch((err) => {
         console.log(err);
       });
-  }, []);
+  }, [filtroEmpresa, empresa]);
 
   const giros = empresa.map((f)=>{
     return f.giro
@@ -33,6 +33,9 @@ function Home() {
   }
 
   const listaGiros = giros.filter(distinct)
+  
+  
+
 
   return (
     <>
@@ -61,6 +64,7 @@ function Home() {
                     })
                   }
                 </select>
+                <br />
                 <table className="table table-striped">
                   <tbody>
                     <tr>
@@ -72,6 +76,7 @@ function Home() {
                       <th scope="col-sm-1">Giro</th>
                     </tr>
                     {empresa.map((e) => {
+                      // if(filtroEmpresa = 0){
                       return (
                         <tr>
                           <TablaEmpresa
@@ -86,6 +91,7 @@ function Home() {
                           />
                         </tr>
                       );
+                    // }
                     })}
                   </tbody>
                 </table>
