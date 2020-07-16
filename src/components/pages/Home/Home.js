@@ -8,9 +8,9 @@ import axios from "axios";
 
 
 function Home() {
-  const URL = `https://directorioactiva.firebaseio.com/-MCJsNTZ4TAc1CwgMzNw/.json`;
+  const URL = `https://directorioactiva.firebaseio.com/.json`;
   const [empresa, setEmpresa] = useState([]);
-  const [filtroEmpresa, setFiltroEmpresa] = useState("");
+  const [filtroEmpresa, setFiltroEmpresa] = useState([]);
   
   useEffect(() => {
     axios
