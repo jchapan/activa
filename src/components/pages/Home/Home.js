@@ -8,7 +8,7 @@ import axios from "axios";
 
 
 function Home() {
-  const URL = `https://directorioactiva.firebaseio.com/.json`;
+  const URL = `https://directorioactiva.firebaseio.com/-MCJsNTZ4TAc1CwgMzNw/.json`;
   const [empresa, setEmpresa] = useState([]);
   const [filtroEmpresa, setFiltroEmpresa] = useState("");
   
@@ -18,6 +18,7 @@ function Home() {
       .then((response) => {
         let allEmpresa = response.data
         setEmpresa(allEmpresa);
+        console.log(empresa)
       })
       .catch((err) => {
         console.log(err);
